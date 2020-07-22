@@ -53,6 +53,10 @@
                 <behavior>Edit</behavior>
                 <field>HelloField__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>TestDemo__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
